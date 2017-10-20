@@ -1,6 +1,6 @@
 # sarcasm
 
-A Jupyter notebook for helping [me] make sense of sysstat sar data.
+**A Jupyter notebook for helping [me] make sense of sysstat sar data.**
 
 Copyright (c) 2017 Brendon Caligari, London, UK
 
@@ -19,11 +19,11 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ```
 
-**This notebook is a quick hack that grew iteratively to help me sift through
+*This notebook is a quick hack that grew iteratively to help me sift through
 sar files while troubleshooting system issues.  It's very badly written and in
 a constant state of flux.  If anyone had to stumble across it and have a use
 for it I'll be happy to try to help within reason.  But please don't have any
-expectations.**
+expectations.*
 
 ## Usage
 
@@ -47,7 +47,7 @@ expectations.**
 
 ```
 
-**Compile**
+**Compile**:
 ```
 cd ~
 file -C -m .magic
