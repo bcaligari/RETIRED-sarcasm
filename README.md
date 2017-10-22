@@ -25,6 +25,14 @@ a constant state of flux.  If anyone had to stumble across it and have a use
 for it I'll be happy to try to help within reason.  But please don't have any
 expectations.*
 
+## sysstat
+
+sysstat, "System performance tools for the Linux operating system", is copyright (c) 1999-2017 Sebastien GODARD and is freely available under the GNU General Public License, version 2.
+
+It can be found at:
+* http://pagesperso-orange.fr/sebastien.godard/
+* https://github.com/sysstat/sysstat
+
 ## Usage
 
 * Follow instructions below to make sure ```file``` can recognise sysstat file type and version.
